@@ -2896,5 +2896,118 @@
         "aliases": {
             "0": "whoahahah"
         }
+    },
+    "297": {
+        "image_name": "predict_win.png",
+        "ms_per_frame": "100",
+        "aliases": {
+            "0": "ti10_compendium"
+        }
+    },
+    "298": {
+        "image_name": "agh2_awooga.png",
+        "ms_per_frame": "100",
+        "default_frame": "1",
+        "aliases": {
+            "0": "aghawooga"
+        }
+    },
+    "299": {
+        "image_name": "agh2_awwghanim.png",
+        "ms_per_frame": "100",
+        "default_frame": "1",
+        "aliases": {
+            "0": "awwghanim"
+        }
+    },
+    "300": {
+        "image_name": "agh2_lets_fraghing_go.png",
+        "ms_per_frame": "100",
+        "default_frame": "1",
+        "aliases": {
+            "0": "fraghanim"
+        }
+    },
+    "301": {
+        "image_name": "agh2_poghanim.png",
+        "ms_per_frame": "100",
+        "default_frame": "1",
+        "aliases": {
+            "0": "poghanim"
+        }
+    },
+    "302": {
+        "image_name": "agh2_smughanim.png",
+        "ms_per_frame": "100",
+        "default_frame": "1",
+        "aliases": {
+            "0": "smughanim"
+        }
+    },
+    "303": {
+        "image_name": "agh2_swaghanim.png",
+        "ms_per_frame": "100",
+        "default_frame": "1",
+        "aliases": {
+            "0": "swaghanim"
+        }
+    },
+    "316": {
+        "image_name": "hot_cocoa.png",
+        "ms_per_frame": "100",
+        "default_frame": "1",
+        "aliases": {
+            "0": "hot_cocoa"
+        }
+    },
+    "319": {
+        "image_name": "not_like_this.png",
+        "ms_per_frame": "100",
+        "default_frame": "1",
+        "aliases": {
+            "0": "not_like_this"
+        }
+    },
+    "323": {
+        "image_name": "power_runes.png",
+        "ms_per_frame": "200",
+        "aliases": {
+            "0": "power_runes"
+        }
+    },
+    "324": {
+        "image_name": "bucket.png",
+        "ms_per_frame": "200",
+        "aliases": {
+            "0": "bucket"
+        }
+    },
+    "325": {
+        "image_name": "itsatrap.png",
+        "ms_per_frame": "200",
+        "aliases": {
+            "0": "itsatrap"
+        }
+    },
+    "326": {
+        "image_name": "itsfromprimal.png",
+        "ms_per_frame": "200",
+        "aliases": {
+            "0": "itsfromprimal"
+        }
+    },
+    "327": {
+        "image_name": "flamescepter.png",
+        "ms_per_frame": "200",
+        "aliases": {
+            "0": "flamescepter"
+        }
+    },
+    "328": {
+        "image_name": "apexmage.png",
+        "ms_per_frame": "200",
+        "aliases": {
+            "0": "apexmage"
+        }
     }
 }
